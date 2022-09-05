@@ -1,5 +1,7 @@
 lulus kuliah cepat
 banyak relasi
 menjadi frontend
+   *css
+   *java
 memperdalam teknik mekatronik
 belajar bahasa inggris
