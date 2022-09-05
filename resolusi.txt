@@ -1,7 +1,7 @@
-lulus kuliah cepat
 banyak relasi
 menjadi frontend
-   *css
-   *java
+  *react
+  *angular
 memperdalam teknik mekatronik
 belajar bahasa inggris
+lulus kuliah dengan puas
